@@ -4,6 +4,6 @@
 
 # 5, Nepali unicode to preeti and proofread
 
-# 4=> Computer and hrhg received
-# 5=> hrhg and computer received
+# 4=> Computer, social and hrhg received
+# 5=> hrhg, social and computer received
 # 3 => Computer received
