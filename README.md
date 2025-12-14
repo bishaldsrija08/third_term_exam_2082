@@ -7,3 +7,4 @@
 # 4=> Computer, social and hrhg received
 # 5=> hrhg, social and computer received
 # 3 => Computer received
+# UKG=> All received expect rhymes and conversation
