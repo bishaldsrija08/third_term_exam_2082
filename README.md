@@ -9,4 +9,6 @@
 # 3 => Computer received
 # UKG=> All received expect rhymes and conversation
 
-# 082/08/29 -> 1 (HRHG and Science), 2 (HRHG and Science), 3 (HRHG and Science) first
+# 082/08/29 -> 1 (HRHG and Science), 2 (HRHG and Science), 3 (HRHG and Science) first proofing done
+
+# 82/09/01 -> routine made, and printed!
